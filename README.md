@@ -7,7 +7,7 @@ I've also uploaded the plots in higher quality. Comparison between observed data
  - [nir38_spectrum_model.pdf](https://github.com/user-attachments/files/21014609/nir38_spectrum_model.pdf)
 
 
-Zoom in on the $^{13}$CO and $^{13}$CO$_2$ features in the spectrum on J110621.
+Zoom in on the $^{13}\text{CO} and $^{13}\text{CO}_2$ features in the spectrum on J110621.
  - [j110621_spectrum_model_zoom_13CO-OCS.pdf](https://github.com/user-attachments/files/21014602/j110621_spectrum_model_zoom_13CO-OCS.pdf)
  - [j110621_spectrum_model_zoom_13CO2.pdf](https://github.com/user-attachments/files/21014603/j110621_spectrum_model_zoom_13CO2.pdf)
 
