@@ -10,7 +10,7 @@ This is a digital version ([pdf](NAM_Poster_2025_ELENI_github.pdf)) of the poste
 
 ## ID: - Modelling and Fitting of Background Source Continua in Molecular Cloud Ice Spectra - L. Demaria
 
-This is a digital version ([pdf](LD_NAM_poster2025.pdf)) of the poster presented by Lorenzo Demaria at NAM (National Astronomy Meeting) 2025 in Durham. 
+This is a digital version ([pdf](LD_NAM_Poster2025.pdf)) of the poster presented by Lorenzo Demaria at NAM (National Astronomy Meeting) 2025 in Durham. 
 
 The plots used in the posters have also been uploaded in higher quality. Comparison between observed data [McClure et al (2023)][1] and simulated observation for stars J110621 and NIR38:
  - [j110621_spectrum_model.pdf](https://github.com/user-attachments/files/21014607/j110621_spectrum_model.pdf)
