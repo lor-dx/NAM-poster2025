@@ -1,6 +1,6 @@
 # NAM 2025 - Posters by M. Rashman, E. Tsiakaliari and L. Demaria
 
-## ID: - - M. Rashman
+## ID: - The 12/13 Carbon ratio in the Cha I molecular cloud complex - M. Rashman
 This is a digital version (pdf) of the poster presented by Maisie Rashman at NAM (National Astronomy Meeting) 2025 in Durham. 
 
 
