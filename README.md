@@ -1,4 +1,8 @@
-# NAM 2025 - Posters by M. Rashman, E. Tsiakaliari and L. Demaria
+# COST NanoSpace - AI in Astrochemistry Training School 2025 
+## Aalto University - Poster by Lorenzo Demaria
+This is a digital version ([pdf](LD_AiAstrochem_Poster2025.pdf)) of the poster presented by Lorenzo Demaria. More information and better quality plots and images are presented at the end.
+
+# NAM 2025 Durham - Posters by M. Rashman, E. Tsiakaliari and L. Demaria
 
 ## ID: 444 - The 12/13 Carbon ratio in the Cha I molecular cloud complex - M. Rashman
 This is a digital version ([pdf](NAM_25_MR.pdf)) of the poster presented by Maisie Rashman at NAM (National Astronomy Meeting) 2025 in Durham. 
